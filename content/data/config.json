@@ -72,7 +72,8 @@
                 "label": "GitHub",
                 "url": "https://github.com/grittothomas",
                 "altText": "Github Gritto Thomas",
-                "showIcon": false
+                "showIcon": false,
+                "icon": "github"
             }
         ],
         "contacts": {
